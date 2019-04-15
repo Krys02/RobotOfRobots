@@ -1,0 +1,10 @@
+#Mon Apr 15 11:15:38 MDT 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\maxwe\\Desktop\\2019-FTC-ROR\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.1=C\:\\Users\\maxwe\\Desktop\\2019-FTC-ROR\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.0=C\:\\Users\\maxwe\\Desktop\\2019-FTC-ROR\\TeamCode\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out

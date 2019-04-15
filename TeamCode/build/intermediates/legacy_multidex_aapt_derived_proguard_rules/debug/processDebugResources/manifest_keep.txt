@@ -1,0 +1,2 @@
+# Referenced at C:\Users\maxwe\Desktop\2019-FTC-ROR\TeamCode\build\intermediates\merged_manifests\debug\AndroidManifest.xml:83
+-keep class org.firstinspires.ftc.robotcore.internal.system.RobotApplication { <init>(); }
